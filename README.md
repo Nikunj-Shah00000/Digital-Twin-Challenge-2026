@@ -11,11 +11,11 @@ CardioTwin India demonstrates how a patient-specific digital twin can combine **
 | Team Name | **CardioTwin India** |
 | Team Leader | **Nikunj Shah** |
 | College / Incubator | **Amity University Noida** |
-| Team Size | 1–4 students |
+| Team Members | 0 |
 | Challenge | Happiest Health Digital Twin Challenge 2026 |
 | Domain | AI + Digital Health + Data Science |
 
-> Add remaining verified team members before submission if applicable.
+**Video Link** - https://www.youtube.com/watch?v=SSKee%5Crwhzu
 
 ## 2. Project Title
 
@@ -325,7 +325,7 @@ MIT License — see `LICENSE`.
 - [x] Healthcare use case
 - [x] Technical stack
 - [x] AI/ML model/framework details
-- [ ] Final 15–20 minute unlisted demo video link
+- [X] Final 15–20 minute unlisted demo video link
 - [x] Open-source license
 - [x] Architecture diagram PDF
 - [x] Presentation PDF
